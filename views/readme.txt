@@ -1,0 +1,1 @@
+aqui van las 'vistas'...lo que el usuario ve etc etc
